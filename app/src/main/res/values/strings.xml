@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Conversor Monedas</string>
+    <string name="conversor">Conversor de Divisas</string>
+    <string name="Valor">Valor Obligatorio</string>
+    <string name="Valor_Conver">Ingrese un valor</string>
+    <string name="Valor_cambiado">Valor del cambio</string>
+    <string name="Convertir">Convertir</string>
+    <string name="error">Cambie el tipo de moneda</string>
+    <string name="sin_valor">Debe digitar una cantidad</string>
+
+    <string-array name="type_money">
+        <item>Euro</item>
+        <item>Dolar</item>
+        <item>Yen</item>
+        <item>PesoCol</item>
+    </string-array>
+    
+</resources>
